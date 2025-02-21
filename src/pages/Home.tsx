@@ -32,11 +32,11 @@ export function Home() {
         <div className="container mx-auto px-6">
           <div className="grid md:grid-cols-4 gap-8 text-center">
             <div>
-              <div className="text-4xl font-bold mb-2">1000+</div>
+              <div className="text-4xl font-bold mb-2">100+</div>
               <div className="text-white/80">Deliveries Completed</div>
             </div>
             <div>
-              <div className="text-4xl font-bold mb-2">50+</div>
+              <div className="text-4xl font-bold mb-2">3+</div>
               <div className="text-white/80">Countries Served</div>
             </div>
             <div>
@@ -44,7 +44,7 @@ export function Home() {
               <div className="text-white/80">Customer Support</div>
             </div>
             <div>
-              <div className="text-4xl font-bold mb-2">98%</div>
+              <div className="text-4xl font-bold mb-2">88%</div>
               <div className="text-white/80">Customer Satisfaction</div>
             </div>
           </div>
